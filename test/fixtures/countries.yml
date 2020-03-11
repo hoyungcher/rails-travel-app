@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  capital: MyString
+  iso_3166_1_alpha2: MyString
+  iso_3166_1_alpha3: MyString
+  iso_3166_1_numeric: 1
+
+two:
+  name: MyString
+  capital: MyString
+  iso_3166_1_alpha2: MyString
+  iso_3166_1_alpha3: MyString
+  iso_3166_1_numeric: 1
